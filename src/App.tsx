@@ -1,4 +1,4 @@
-import "./App.css";
+import "./App.less";
 import { Routes } from "./Routes";
 import { AppProvider } from "./app/context";
 
