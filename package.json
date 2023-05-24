@@ -1,5 +1,5 @@
 {
-  "name": "@foliaco/social-link",
+  "name": "@render-json-apps-admin/frontend",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,6 +12,7 @@
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
     "@fontsource/roboto": "^4.5.8",
+    "@mui/icons-material": "^5.11.16",
     "@mui/material": "^5.11.9",
     "less": "^4.1.3",
     "react": "^18.2.0",
