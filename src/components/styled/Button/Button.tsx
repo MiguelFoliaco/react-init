@@ -15,6 +15,16 @@ export const Button = styled(B)`
     background-color: ${theme.pallete.primary.main};
   }
 `;
+export const ButtonIcon = styled(B)`
+  padding: 10px 20px !important;
+  border-radius: 0px !important;
+  font-size: ${theme.text.link.size};
+  font-weight: bold;
+  border: none;
+  letter-spacing: 2px !important;
+  box-shadow: none !important;
+  border-radius:100%;
+`;
 
 export const ButtonLink = styled(B)`
   background-color: ${theme.pallete.primary.light};
